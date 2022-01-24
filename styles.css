@@ -13,19 +13,19 @@ body {
     justify-content:center;
     align-items:center;
     justify-self:center;
-    height:100vh;
+    min-height:100vh;
 }
 .card {
     background-color: var(--white);
-    width:20%;
-    border-radius:3%;
+    width:20rem;
+    border-radius:12px;
 }
 .qr-code {
     display:block;
     width:88%;
     height: 88%;
-    padding:16px;
-    border-radius:8%;
+    padding:1rem;
+    border-radius:24px;
     margin: auto;
 }
 .card-text {
