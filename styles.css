@@ -34,7 +34,7 @@ body {
     color: var(--grayishblue);
     text-align: center;
     margin: 0;
-    padding: 2% 14% 14%;
+    padding: 2% 12% 14%;
 }
 .card-title {
     font-size: 21px;
@@ -42,5 +42,5 @@ body {
     color: var(--darkblue);
     text-align: center;
     margin: 0;
-    padding: 2% 12%;
+    padding: 2% 10%;
 }
